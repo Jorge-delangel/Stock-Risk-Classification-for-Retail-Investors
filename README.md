@@ -1,9 +1,8 @@
-<p align="center">
-  <img src="https://github.com/Jorge-delangel/Stock-Risk-Classification-for-Retail-Investors/assets/Copilot_20260313_173601.png" alt="Stock Risk Classification Cover" width="100%">
-</p>
-
-
 > Portfolio project by Jorge Luis Del Angel Maldonado – MSc Data Analytics
+
+<p align="center">
+  <img src="https://github.com/Jorge-delangel/Stock-Risk-Classification-for-Retail-Investors/blob/main/assets/Copilot_20260313_173601.png" alt="Stock Risk Classification Cover" width="100%">
+</p>
 
 # 📈 Stock Risk Classification for Retail Investors  
 **End‑to‑End Machine Learning Pipeline for Short‑Term Risk Prediction**
