@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Jorge-delangel/Stock-Risk-Classification-for-Retail-Investors/assets/your-username/your-image-id" alt="Stock Risk Classification Cover" width="100%">
+  <img src="https://github.com/Jorge-delangel/Stock-Risk-Classification-for-Retail-Investors/assets/Copilot_20260313_173601.png" alt="Stock Risk Classification Cover" width="100%">
 </p>
 
 
