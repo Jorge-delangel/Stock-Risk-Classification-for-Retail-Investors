@@ -131,16 +131,18 @@ stock-risk-classification/
 │  └─ run_inference_demo.py
 ├─ requirements.txt
 └─ README.md
+```
 
 ---
 
 ## 👤 Author
 **Jorge Luis Del Angel Maldonado**  
-MSc Science in Data Analytics – Business Intelligence  
-Analytics & BI Portfolio Project
+MSc Science in Data Analytics – Machine Learning  
+Analytics & ML Portfolio Project
 
 ---
 
 ## 📄 Disclaimer
 This project is an academic and portfolio-based consultancy simulation.  
 All architectures, models, and dashboards are designed for educational and demonstrative purposes only and do not represent a production system.
+
