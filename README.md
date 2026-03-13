@@ -1,3 +1,5 @@
+> Portfolio project by Jorge Luis Del Angel Maldonado – MSc Data Analytics
+
 # 📈 Stock Risk Classification for Retail Investors
 
 Machine learning project that classifies **short‑term stock risk (Low / Medium / High)** using historical market data and interpretable ML models, designed for a **retail investment platform targeting non‑expert users**.
