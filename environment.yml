@@ -1,0 +1,36 @@
+name: stock-risk-classification
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  # Core Python
+  - python=3.10
+
+  # Scientific stack
+  - numpy
+  - pandas
+  - scipy
+
+  # Machine learning
+  - scikit-learn
+  - xgboost
+
+  # Explainability
+  - shap
+
+  # Visualization
+  - matplotlib
+  - seaborn
+
+  # Notebook environment
+  - jupyter
+  - ipykernel
+
+  # Utilities
+  - joblib
+
+  # Pip-only packages
+  - pip
+  - pip:
+      - yfinance
