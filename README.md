@@ -142,11 +142,11 @@ This ensures transparency and interpretability.
 conda env create -f environment.yml
 conda activate stock-risk-classification
 ```
-## **2. Run the full workflow**
+### **2. Run the full workflow**
 ```bash
 python main.py
 ```
-## **3. View outputs**
+### **3. View outputs**
 - Processed datasets → `data/processed/`
 - Saved models → `models/`
 - Visuals → `reports/figures/`
